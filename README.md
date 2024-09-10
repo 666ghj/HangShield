@@ -34,6 +34,7 @@ if __name__ == '__main__':
 预测结果已保存至: ..\data_DLT\result\prediction_DLT.npy
 已复制         1 个文件。
 整合后的数据已保存至: ..\multi_Classifier\combined_data_with_labels.npy
+已加载训练好的复杂softmax模型: ../multi_Classifier/model.pth
 最终预测结果已保存至: ..\multi_Classifier\final_predictions.npy
 ```
 
